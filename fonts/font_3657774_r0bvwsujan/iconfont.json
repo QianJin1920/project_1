@@ -1,0 +1,23 @@
+{
+  "id": "3657774",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1277492",
+      "name": "苹果",
+      "font_class": "pingguo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1899153",
+      "name": "windows",
+      "font_class": "windows",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    }
+  ]
+}
